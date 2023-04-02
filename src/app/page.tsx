@@ -3,7 +3,7 @@ import head from './head'
 
 export default function page() {
   return (
-    <div className=' relative h-[3250px] w-full bg-gradient-to-r  from-slate-500 to-red-500 via-slate-300 '>
+    <div className=' relative h-[3280px] w-full bg-gradient-to-r  from-slate-500 to-red-500 via-slate-300 '>
       <div className=' relative  h-12 w-16 ml-1 pt-3'>
         <div>
         <div className=''>
